@@ -456,7 +456,7 @@
 }
 
 [data-animation="zoomInOut"].full-site-modal {
-    transform: scale(0.2);
+    transform: scale(0.7);
 }
 
 [data-animation="slideInOutTop"].modal-dialog {
